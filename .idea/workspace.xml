@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd51dbf-7be6-4e58-87a2-f02887b44a60" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies.jar" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" />
     </list>
