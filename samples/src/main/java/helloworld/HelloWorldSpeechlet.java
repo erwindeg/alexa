@@ -1,29 +1,22 @@
 /**
-    Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
-
-    Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
-
-        http://aws.amazon.com/apache2.0/
-
-    or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
+ * Copyright 2014-2015 Amazon.com, Inc. or its affiliates. All Rights Reserved.
+ * <p>
+ * Licensed under the Apache License, Version 2.0 (the "License"). You may not use this file except in compliance with the License. A copy of the License is located at
+ * <p>
+ * http://aws.amazon.com/apache2.0/
+ * <p>
+ * or in the "license" file accompanying this file. This file is distributed on an "AS IS" BASIS, WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied. See the License for the specific language governing permissions and limitations under the License.
  */
 package helloworld;
 
-import org.slf4j.Logger;
-import org.slf4j.LoggerFactory;
-
 import com.amazon.speech.slu.Intent;
-import com.amazon.speech.speechlet.IntentRequest;
-import com.amazon.speech.speechlet.LaunchRequest;
-import com.amazon.speech.speechlet.Session;
-import com.amazon.speech.speechlet.SessionEndedRequest;
-import com.amazon.speech.speechlet.SessionStartedRequest;
-import com.amazon.speech.speechlet.Speechlet;
-import com.amazon.speech.speechlet.SpeechletException;
-import com.amazon.speech.speechlet.SpeechletResponse;
+import com.amazon.speech.slu.Slot;
+import com.amazon.speech.speechlet.*;
 import com.amazon.speech.ui.PlainTextOutputSpeech;
 import com.amazon.speech.ui.Reprompt;
 import com.amazon.speech.ui.SimpleCard;
+import org.slf4j.Logger;
+import org.slf4j.LoggerFactory;
 
 /**
  * This sample shows how to create a simple speechlet for handling speechlet requests.
@@ -55,15 +48,23 @@ public class HelloWorldSpeechlet implements Speechlet {
 
         Intent intent = request.getIntent();
         String intentName = (intent != null) ? intent.getName() : null;
-
+        log.info("IntentName: "+intentName);
         if ("HelloWorldIntent".equals(intentName)) {
             return getHelloResponse();
+        } else if ("ContinueIntent".equals(intentName)) {
+            return getContinueResponse();
+        } else if ("PizzaIntent".equals(intentName)) {
+            return getPizzaResponse();
+        } else if ("OrderPizzaIntent".equals(intentName)) {
+            return getOrderPizzaResponse(intent);
         } else if ("AMAZON.HelpIntent".equals(intentName)) {
             return getHelpResponse();
         } else {
             throw new SpeechletException("Invalid Intent");
         }
     }
+
+
 
     @Override
     public void onSessionEnded(final SessionEndedRequest request, final Session session)
@@ -78,8 +79,9 @@ public class HelloWorldSpeechlet implements Speechlet {
      *
      * @return SpeechletResponse spoken and visual response for the given intent
      */
+
     private SpeechletResponse getWelcomeResponse() {
-        String speechText = "Welcome to the Alexa Skills Kit, you can say hello";
+        String speechText = "Hello, my name is Alexa, did you know you can use Java to create new functionality for me?";
 
         // Create the Simple card content.
         SimpleCard card = new SimpleCard();
@@ -139,5 +141,60 @@ public class HelloWorldSpeechlet implements Speechlet {
         reprompt.setOutputSpeech(speech);
 
         return SpeechletResponse.newAskResponse(speech, reprompt, card);
+    }
+
+    public SpeechletResponse getContinueResponse() {
+        String speechText = "Well, who doesn't want an Artificial Intelligence in their house which they can program themselves? So, if " +
+                "you know Java, you can create additional skills for me, like playing games or ordering pizza.";
+
+        // Create the Simple card content.
+        SimpleCard card = new SimpleCard();
+        card.setTitle("Continue");
+        card.setContent(speechText);
+
+        // Create the plain text output.
+        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+        speech.setText(speechText);
+
+        // Create reprompt
+        Reprompt reprompt = new Reprompt();
+        reprompt.setOutputSpeech(speech);
+
+        return SpeechletResponse.newAskResponse(speech, reprompt, card);
+    }
+
+    public SpeechletResponse getPizzaResponse() {
+        String speechText = "Yes, I can, what kind of pizza do you want?";
+
+        // Create the Simple card content.
+        SimpleCard card = new SimpleCard();
+        card.setTitle("Pizza");
+        card.setContent(speechText);
+
+        // Create the plain text output.
+        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+        speech.setText(speechText);
+
+        // Create reprompt
+        Reprompt reprompt = new Reprompt();
+        reprompt.setOutputSpeech(speech);
+
+        return SpeechletResponse.newAskResponse(speech, reprompt, card);
+    }
+
+    private SpeechletResponse getOrderPizzaResponse(Intent intent) {
+        Slot pizza = intent.getSlot("Pizza");
+        String speechText = "Cool, I will order a "+pizza.getValue();
+
+        // Create the Simple card content.
+        SimpleCard card = new SimpleCard();
+        card.setTitle(pizza.getValue());
+        card.setContent(speechText);
+
+        // Create the plain text output.
+        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+        speech.setText(speechText);
+
+        return SpeechletResponse.newTellResponse(speech, card);
     }
 }

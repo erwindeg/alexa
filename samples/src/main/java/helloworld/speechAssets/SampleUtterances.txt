@@ -5,3 +5,14 @@ HelloWorldIntent say hi
 HelloWorldIntent say hi world
 HelloWorldIntent hi
 HelloWorldIntent how are you
+
+ContinueIntent more
+ContinueIntent why
+ContinueIntent tell me more
+ContinueIntent tell me how
+
+PizzaIntent you can order pizza
+PizzaIntent pizza
+PizzaIntent order pizza
+
+OrderPizzaIntent {Pizza}
