@@ -146,9 +146,13 @@ public class HelloWorldSpeechlet implements Speechlet {
                 "you know Java, you can create additional skills for me, like playing games or ordering pizza.";
 
         // Create the Simple card content.
-        SimpleCard card = new SimpleCard();
-        card.setTitle("Continue");
-        card.setContent(speechText);
+        StandardCard card = new StandardCard();
+        card.setTitle(pizza.getValue());
+        card.setText(speechText);
+        Image image = new Image();
+        image.setSmallImageUrl("https://raw.githubusercontent.com/erwindeg/alexa/master/pizza.jpg");
+        image.setLargeImageUrl("https://raw.githubusercontent.com/erwindeg/alexa/master/pizza.jpg");
+        card.setImage(image);
 
         // Create the plain text output.
         PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
@@ -189,8 +193,8 @@ public class HelloWorldSpeechlet implements Speechlet {
         card.setTitle(pizza.getValue());
         card.setText(speechText);
         Image image = new Image();
-        image.setSmallImageUrl("https://static.pexels.com/photos/166451/pexels-photo-166451.jpeg");
-        image.setLargeImageUrl("https://static.pexels.com/photos/166451/pexels-photo-166451.jpeg");
+        image.setSmallImageUrl("https://raw.githubusercontent.com/erwindeg/alexa/master/pizza.jpg");
+        image.setLargeImageUrl("https://raw.githubusercontent.com/erwindeg/alexa/master/pizza.jpg");
         card.setImage(image);
 
 
