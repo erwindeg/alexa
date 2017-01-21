@@ -189,8 +189,8 @@ public class HelloWorldSpeechlet implements Speechlet {
         card.setTitle(pizza.getValue());
         card.setText(speechText);
         Image image = new Image();
-        image.setSmallImageUrl("http://www.cicis.com/media/1138/pizza_trad_pepperoni.png");
-        image.setLargeImageUrl("http://www.cicis.com/media/1138/pizza_trad_pepperoni.png");
+        image.setSmallImageUrl("https://static.pexels.com/photos/166451/pexels-photo-166451.jpeg");
+        image.setLargeImageUrl("https://static.pexels.com/photos/166451/pexels-photo-166451.jpeg");
         card.setImage(image);
 
 
