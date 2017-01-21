@@ -12,9 +12,7 @@ package helloworld;
 import com.amazon.speech.slu.Intent;
 import com.amazon.speech.slu.Slot;
 import com.amazon.speech.speechlet.*;
-import com.amazon.speech.ui.PlainTextOutputSpeech;
-import com.amazon.speech.ui.Reprompt;
-import com.amazon.speech.ui.SimpleCard;
+import com.amazon.speech.ui.*;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 
@@ -187,9 +185,14 @@ public class HelloWorldSpeechlet implements Speechlet {
         String speechText = "Cool, I will order a "+pizza.getValue();
 
         // Create the Simple card content.
-        SimpleCard card = new SimpleCard();
+        StandardCard card = new StandardCard();
         card.setTitle(pizza.getValue());
-        card.setContent(speechText);
+        card.setText(speechText);
+        Image image = new Image();
+        image.setSmallImageUrl("http://www.cicis.com/media/1138/pizza_trad_pepperoni.png");
+        image.setLargeImageUrl("http://www.cicis.com/media/1138/pizza_trad_pepperoni.png");
+        card.setImage(image);
+
 
         // Create the plain text output.
         PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
