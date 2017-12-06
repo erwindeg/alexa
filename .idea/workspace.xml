@@ -2,9 +2,732 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ecd51dbf-7be6-4e58-87a2-f02887b44a60" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies.jar" afterPath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies.jar" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies.jar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/LICENSE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/LICENSE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/MANIFEST.MF" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/NOTICE" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/NOTICE.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.amazonaws/aws-lambda-java-core/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.amazonaws/aws-lambda-java-core/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-annotations/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-core/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/com.fasterxml.jackson.core/jackson-databind/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/commons-codec/commons-codec/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/commons-codec/commons-codec/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/commons-io/commons-io/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/commons-io/commons-io/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/javax.servlet/javax.servlet-api/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/javax.servlet/javax.servlet-api/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/joda-time/joda-time/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/joda-time/joda-time/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/log4j/log4j/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/log4j/log4j/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.apache.commons/commons-lang3/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.apache.commons/commons-lang3/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.slf4j/slf4j-api/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.slf4j/slf4j-api/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.slf4j/slf4j-log4j12/pom.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/maven/org.slf4j/slf4j-log4j12/pom.xml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/services/com.fasterxml.jackson.core.JsonFactory" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/META-INF/services/com.fasterxml.jackson.core.ObjectCodec" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/LocalStrings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/LocalStrings_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/LocalStrings_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/http/LocalStrings.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/http/LocalStrings_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/http/LocalStrings_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/javax/servlet/http/LocalStrings_ja.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_approx_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_exact_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_hebrew_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_languages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/ash_rules_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_arabic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_czech.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_dutch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_greek.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_greeklatin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_approx_turkish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_arabic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_czech.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_dutch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_greek.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_greeklatin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_exact_turkish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_hebrew_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_languages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_arabic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_cyrillic.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_czech.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_dutch.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_english.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_german.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_greek.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_greeklatin.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_hungarian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_polish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_romanian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_russian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/gen_rules_turkish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/lang.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_approx_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_approx_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_exact_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_hebrew_common.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_languages.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_any.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_french.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_hebrew.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_italian.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_portuguese.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/commons/codec/language/bm/sep_rules_spanish.txt" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/log4j/lf5/config/defaultconfig.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/log4j/lf5/viewer/images/channelexplorer_new.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/log4j/lf5/viewer/images/channelexplorer_satellite.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/log4j/lf5/viewer/images/lf5_small_icon.gif" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/apache/log4j/xml/log4j.dtd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages_de.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages_es.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages_fr.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages_nl.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/format/messages_pt.properties" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Abidjan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Accra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Addis_Ababa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Algiers" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Asmara" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Bamako" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Bangui" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Banjul" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Bissau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Blantyre" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Brazzaville" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Bujumbura" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Cairo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Casablanca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Ceuta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Conakry" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Dakar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Dar_es_Salaam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Djibouti" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Douala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/El_Aaiun" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Freetown" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Gaborone" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Harare" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Johannesburg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Kampala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Khartoum" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Kigali" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Kinshasa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Lagos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Libreville" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Lome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Luanda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Lubumbashi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Lusaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Malabo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Maputo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Maseru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Mbabane" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Mogadishu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Monrovia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Nairobi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Ndjamena" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Niamey" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Nouakchott" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Ouagadougou" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Porto-Novo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Sao_Tome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Tripoli" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Tunis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Africa/Windhoek" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Adak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Anchorage" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Anguilla" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Antigua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Araguaina" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Buenos_Aires" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Catamarca" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Cordoba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Jujuy" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/La_Rioja" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Mendoza" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Rio_Gallegos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Salta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/San_Juan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/San_Luis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Tucuman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Argentina/Ushuaia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Aruba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Asuncion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Atikokan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Bahia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Bahia_Banderas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Barbados" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Belem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Belize" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Blanc-Sablon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Boa_Vista" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Bogota" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Boise" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Cambridge_Bay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Campo_Grande" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Cancun" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Caracas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Cayenne" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Cayman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Chicago" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Chihuahua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Costa_Rica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Cuiaba" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Curacao" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Danmarkshavn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Dawson" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Dawson_Creek" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Denver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Detroit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Dominica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Edmonton" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Eirunepe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/El_Salvador" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Fortaleza" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Glace_Bay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Godthab" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Goose_Bay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Grand_Turk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Grenada" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Guadeloupe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Guatemala" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Guayaquil" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Guyana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Halifax" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Havana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Hermosillo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Indianapolis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Knox" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Marengo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Petersburg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Tell_City" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Vevay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Vincennes" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Indiana/Winamac" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Inuvik" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Iqaluit" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Jamaica" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Juneau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Kentucky/Louisville" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Kentucky/Monticello" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/La_Paz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Lima" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Los_Angeles" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Maceio" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Managua" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Manaus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Martinique" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Matamoros" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Mazatlan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Menominee" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Merida" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Metlakatla" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Mexico_City" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Miquelon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Moncton" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Monterrey" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Montevideo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Montreal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Montserrat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Nassau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/New_York" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Nipigon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Nome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Noronha" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/North_Dakota/Beulah" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/North_Dakota/Center" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/North_Dakota/New_Salem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Ojinaga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Panama" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Pangnirtung" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Paramaribo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Phoenix" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Port-au-Prince" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Port_of_Spain" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Porto_Velho" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Puerto_Rico" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Rainy_River" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Rankin_Inlet" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Recife" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Regina" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Resolute" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Rio_Branco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Santa_Isabel" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Santarem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Santiago" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Santo_Domingo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Sao_Paulo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Scoresbysund" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Sitka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/St_Johns" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/St_Kitts" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/St_Lucia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/St_Thomas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/St_Vincent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Swift_Current" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Tegucigalpa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Thule" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Thunder_Bay" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Tijuana" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Toronto" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Tortola" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Vancouver" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Whitehorse" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Winnipeg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Yakutat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/America/Yellowknife" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Casey" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Davis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/DumontDUrville" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Macquarie" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Mawson" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/McMurdo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Palmer" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Rothera" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Syowa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Antarctica/Vostok" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Aden" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Almaty" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Amman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Anadyr" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Aqtau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Aqtobe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Ashgabat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Baghdad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Bahrain" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Baku" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Bangkok" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Beirut" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Bishkek" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Brunei" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Choibalsan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Chongqing" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Colombo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Damascus" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Dhaka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Dili" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Dubai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Dushanbe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Gaza" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Harbin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Ho_Chi_Minh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Hong_Kong" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Hovd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Irkutsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Jakarta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Jayapura" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Jerusalem" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kabul" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kamchatka" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Karachi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kashgar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kathmandu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kolkata" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Krasnoyarsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kuala_Lumpur" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kuching" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Kuwait" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Macau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Magadan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Makassar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Manila" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Muscat" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Nicosia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Novokuznetsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Novosibirsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Omsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Oral" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Phnom_Penh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Pontianak" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Pyongyang" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Qatar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Qyzylorda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Rangoon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Riyadh" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Sakhalin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Samarkand" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Seoul" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Shanghai" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Singapore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Taipei" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Tashkent" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Tbilisi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Tehran" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Thimphu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Tokyo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Ulaanbaatar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Urumqi" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Vientiane" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Vladivostok" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Yakutsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Yekaterinburg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Asia/Yerevan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Azores" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Bermuda" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Canary" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Cape_Verde" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Faroe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Madeira" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Reykjavik" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/South_Georgia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/St_Helena" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Atlantic/Stanley" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Adelaide" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Brisbane" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Broken_Hill" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Currie" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Darwin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Eucla" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Hobart" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Lindeman" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Lord_Howe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Melbourne" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Perth" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Australia/Sydney" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/CET" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/CST6CDT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/EET" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/EST" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/EST5EDT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT+9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-1" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-10" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-11" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-12" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-13" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-14" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-2" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-3" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-4" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-5" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-6" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-7" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-8" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/GMT-9" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/UCT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Etc/UTC" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Amsterdam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Andorra" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Athens" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Belgrade" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Berlin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Brussels" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Bucharest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Budapest" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Chisinau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Copenhagen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Dublin" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Gibraltar" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Helsinki" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Istanbul" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Kaliningrad" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Kiev" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Lisbon" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/London" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Luxembourg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Madrid" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Malta" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Minsk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Monaco" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Moscow" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Oslo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Paris" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Prague" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Riga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Rome" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Samara" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Simferopol" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Sofia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Stockholm" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Tallinn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Tirane" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Uzhgorod" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Vaduz" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Vienna" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Vilnius" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Volgograd" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Warsaw" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Zaporozhye" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Europe/Zurich" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/HST" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Antananarivo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Chagos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Christmas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Cocos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Comoro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Kerguelen" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Mahe" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Maldives" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Mauritius" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Mayotte" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Indian/Reunion" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/MET" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/MST" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/MST7MDT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/PST8PDT" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Apia" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Auckland" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Chatham" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Chuuk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Easter" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Efate" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Enderbury" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Fakaofo" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Fiji" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Funafuti" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Galapagos" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Gambier" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Guadalcanal" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Guam" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Honolulu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Johnston" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Kiritimati" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Kosrae" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Kwajalein" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Majuro" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Marquesas" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Midway" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Nauru" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Niue" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Norfolk" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Noumea" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Pago_Pago" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Palau" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Pitcairn" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Pohnpei" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Port_Moresby" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Rarotonga" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Saipan" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Tahiti" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Tarawa" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Tongatapu" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Wake" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/Pacific/Wallis" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/WET" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2-jar-with-dependencies/org/joda/time/tz/data/ZoneInfoMap" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/Sdk.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/Sdk.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/ContextDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/ContextDeserializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/ContextSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/ContextSerializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SerializedInterface.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SerializedInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestBeanDeserializerModifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SpeechletRequestBeanDeserializerModifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestBeanSerializerModifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SpeechletRequestBeanSerializerModifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestEnvelope.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SpeechletRequestEnvelope.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletRequestModule.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SpeechletRequestModule.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SpeechletResponseEnvelope.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SpeechletResponseEnvelope.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SupportedInterfacesDeserializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SupportedInterfacesDeserializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/SupportedInterfacesSerializer.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/SupportedInterfacesSerializer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/json/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/json/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/Intent.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/slu/Intent.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/Slot.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/slu/Slot.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/slu/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/slu/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Application.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Application.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Context.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Context.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/CoreSpeechletRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/CoreSpeechletRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Device.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Device.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Directive.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Directive.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/IntentRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/IntentRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Interface.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Interface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/LaunchRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/LaunchRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Session.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Session.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SessionEndedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SessionEndedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SessionStartedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SessionStartedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/Speechlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/Speechlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletException.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestDispatcher.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletRequestDispatcher.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletRequestHandlerException.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletRequestHandlerException.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletResponse.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletResponse.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletToSpeechletV2Adapter.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SpeechletV2.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SpeechletV2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/State.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/State.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/SupportedInterfaces.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/SupportedInterfaces.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/User.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/User.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/authentication/ApplicationIdVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/authentication/SpeechletRequestSignatureVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/TimestampVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/authentication/TimestampVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/authentication/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/authentication/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/AudioItem.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayer.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/AudioPlayerState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/ClearBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/CurrentPlaybackState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/Error.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/Error.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/ErrorType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/PlayBehavior.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/PlayerActivity.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/Stream.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/directive/ClearQueueDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/directive/PlayDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/directive/StopDirective.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/directive/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/AudioPlayerRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFailedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackFinishedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackNearlyFinishedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStartedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/PlaybackStoppedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/audioplayer/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/PlaybackController.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/NextCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PauseCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlayCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PlaybackControllerRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/PreviousCommandIssuedRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/playbackcontroller/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/Error.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/Error.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/ErrorCause.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/ErrorCause.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/ErrorType.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/ErrorType.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/System.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/System.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/SystemInterface.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/SystemInterface.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/SystemState.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/SystemState.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/request/ExceptionEncounteredRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/request/SystemRequest.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/interfaces/system/request/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/interfaces/system/request/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/lambda/LambdaSpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/lambda/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/lambda/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/servlet/ServletSpeechletRequestHandler.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/SpeechletServlet.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/servlet/SpeechletServlet.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/servlet/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/servlet/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestEnvelopeVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/ApplicationIdSpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/CardSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/OutputSpeechSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/ResponseSizeSpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/SpeechletRequestEnvelopeVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/SpeechletRequestVerifierWrapper.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/SpeechletResponseVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/TimestampSpeechletRequestVerifier.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/speechlet/verifier/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/verifier/package-info.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Card.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Card.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Image.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Image.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/LinkAccountCard.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/LinkAccountCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/OutputSpeech.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/OutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/PlainTextOutputSpeech.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/PlainTextOutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/Reprompt.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Reprompt.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/SimpleCard.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SimpleCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/SsmlOutputSpeech.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SsmlOutputSpeech.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/StandardCard.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/StandardCard.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/amazon/speech/ui/package-info.java" afterPath="$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/package-info.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/alexa-skills-kit-1.2.jar" afterPath="$PROJECT_DIR$/target/alexa-skills-kit-1.2.jar" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/alexa-skills-kit.iml" afterPath="$PROJECT_DIR$/alexa-skills-kit.iml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" afterPath="$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/target/maven-archiver/pom.properties" afterPath="$PROJECT_DIR$/target/maven-archiver/pom.properties" />
     </list>
     <ignored path="alexa-skills-kit.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -29,9 +752,9 @@
       <file leaf-file-name="README.md" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor vertical-scroll-proportion="0.39361703">
-                <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
+            <state split_layout="FIRST">
+              <first_editor vertical-scroll-proportion="0.7293355">
+                <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -39,36 +762,12 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="SampleUtterances.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+      <file leaf-file-name="RequestStreamHandler.java" pinned="false" current-in-tab="false">
+        <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/RequestStreamHandler.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="IntentSchema.json" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-0.0">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1667#1668#0" expanded="false" />
-                <element signature="e#1740#1741#0" expanded="false" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -77,17 +776,17 @@
         <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
-              <caret line="16" column="30" selection-start-line="16" selection-start-column="30" selection-end-line="16" selection-end-column="30" />
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/samples/pom.xml">
+      <file leaf-file-name="HelloWorldSpeechletRequestStreamHandler.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-1.0487288">
-              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.68441063">
+              <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -165,8 +864,8 @@
     </navigator>
     <panes>
       <pane id="PackagesPane" />
-      <pane id="Scratches" />
       <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -174,10 +873,6 @@
               <option name="myItemId" value="alexa-skills-kit" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="External Libraries" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ExternalLibrariesNode" />
-            </PATH_ELEMENT>
           </PATH>
           <PATH>
             <PATH_ELEMENT>
@@ -199,7 +894,85 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="target" />
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="alexa-skills-kit-java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="samples" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="main" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="java" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="helloworld" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -208,11 +981,15 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/samples" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../sogeti-taf/git/sogeti-taf" />
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="full.screen.before.presentation.mode" value="false" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/java" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/samples/src/main/java" />
     </key>
@@ -476,6 +1253,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ecd51dbf-7be6-4e58-87a2-f02887b44a60" name="Default" comment="" />
@@ -486,7 +1266,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1440" height="873" extended-state="6" />
+    <frame x="0" y="23" width="1440" height="873" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -496,23 +1276,56 @@
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.30596027" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26622516" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.31688127" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2353362" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
+    <layout-to-restore>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Mongo Explorer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.34966886" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26640624" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="6" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+    </layout-to-restore>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -521,11 +1334,183 @@
     <breakpoint-manager />
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0.jar!/com/amazonaws/services/lambda/runtime/RequestStreamHandler.class">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="15" column="127" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="127" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="189" column="43" selection-start-line="189" selection-start-column="43" selection-end-line="189" selection-end-column="43" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="23" column="88" selection-start-line="23" selection-start-column="88" selection-end-line="23" selection-end-column="88" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/StandardCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/LinkAccountCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SsmlOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1199#0" expanded="false" />
+            <element signature="e#974#975#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
+            <element signature="e#1163#1164#0" expanded="false" />
+            <element signature="e#1195#1196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/PlainTextOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="15" column="127" selection-start-line="15" selection-start-column="61" selection-end-line="15" selection-end-column="127" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SimpleCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/OutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/StandardCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/LinkAccountCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SsmlOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1199#0" expanded="false" />
+            <element signature="e#974#975#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
+            <element signature="e#1163#1164#0" expanded="false" />
+            <element signature="e#1195#1196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/PlainTextOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
@@ -533,7 +1518,7 @@
     <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor vertical-scroll-proportion="0.39361703">
+          <first_editor vertical-scroll-proportion="0.0">
             <caret line="28" column="62" selection-start-line="28" selection-start-column="62" selection-end-line="28" selection-end-column="62" />
             <folding />
           </first_editor>
@@ -545,7 +1530,13 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
         </state>
       </provider>
     </entry>
@@ -553,11 +1544,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="30" column="89" selection-start-line="30" selection-start-column="89" selection-end-line="30" selection-end-column="89" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1667#1668#0" expanded="false" />
-            <element signature="e#1740#1741#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -571,8 +1558,174 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/samples/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.0487288">
+        <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/IntentSchema.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="10" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/speechAssets/SampleUtterances.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
+          <caret line="10" column="16" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.0">
+            <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Card.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Image.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/Reprompt.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SimpleCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/OutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/package-info.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/StandardCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/LinkAccountCard.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/SsmlOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="e#0#1199#0" expanded="false" />
+            <element signature="e#974#975#0" expanded="false" />
+            <element signature="e#1001#1002#0" expanded="false" />
+            <element signature="e#1163#1164#0" expanded="false" />
+            <element signature="e#1195#1196#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/ui/PlainTextOutputSpeech.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/amazon/speech/speechlet/lambda/SpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="42" column="72" selection-start-line="42" selection-start-column="72" selection-end-line="42" selection-end-column="72" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0.jar!/com/amazonaws/services/lambda/runtime/RequestStreamHandler.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.0">
+          <caret line="15" column="0" selection-start-line="15" selection-start-column="0" selection-end-line="15" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechlet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/com/amazonaws/aws-lambda-java-core/1.0.0/aws-lambda-java-core-1.0.0-sources.jar!/com/amazonaws/services/lambda/runtime/RequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="12" column="39" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="FIRST">
+          <first_editor vertical-scroll-proportion="0.7293355">
+            <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/samples/src/main/java/helloworld/HelloWorldSpeechletRequestStreamHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.68441063">
+          <caret line="37" column="0" selection-start-line="37" selection-start-column="0" selection-end-line="37" selection-end-column="0" />
           <folding />
         </state>
       </provider>

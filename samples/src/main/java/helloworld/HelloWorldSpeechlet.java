@@ -79,16 +79,18 @@ public class HelloWorldSpeechlet implements Speechlet {
      */
 
     private SpeechletResponse getWelcomeResponse() {
-        String speechText = "Hello, my name is Alexa, did you know you can use Java to create new functionality for me?";
+        String speechText = "<speak><s>Hello! hi, Airwin! How are you!</s><s>oh, look at all those people</s><s>hello everyone!</s><s> My name is Alexa, </s><s>did you know you can use Java to create new functionality for me?</s></speak>";
 
         // Create the Simple card content.
         SimpleCard card = new SimpleCard();
-        card.setTitle("HelloWorld");
+        card.setTitle("Hello");
         card.setContent(speechText);
 
+
         // Create the plain text output.
-        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
-        speech.setText(speechText);
+        SsmlOutputSpeech speech = new SsmlOutputSpeech();
+//        PlainTextOutputSpeech speech = new PlainTextOutputSpeech();
+        speech.setSsml(speechText);
 
         // Create reprompt
         Reprompt reprompt = new Reprompt();
@@ -103,7 +105,7 @@ public class HelloWorldSpeechlet implements Speechlet {
      * @return SpeechletResponse spoken and visual response for the given intent
      */
     private SpeechletResponse getHelloResponse() {
-        String speechText = "Hello world";
+        String speechText = "";
 
         // Create the Simple card content.
         SimpleCard card = new SimpleCard();
@@ -185,13 +187,8 @@ public class HelloWorldSpeechlet implements Speechlet {
         String speechText = "Cool, I will order a "+pizza.getValue();
 
         // Create the Simple card content.
-        StandardCard card = new StandardCard();
+        SimpleCard card = new SimpleCard();
         card.setTitle(pizza.getValue());
-        card.setText(speechText);
-        Image image = new Image();
-        image.setSmallImageUrl("https://s3.amazonaws.com/alexia-images/pizza.jpg");
-        image.setLargeImageUrl("https://s3.amazonaws.com/alexia-images/pizza.jpg");
-        card.setImage(image);
 
 
         // Create the plain text output.
